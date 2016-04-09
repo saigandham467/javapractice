@@ -1,0 +1,53 @@
+Sai Gandham
+
+Email: Saigandham467@gmail.com                                                                                                          14520 Santa Fe Acres  
+Cell: 4024191599                                                                                                                                       Helotes, Texas, 78023
+
+OBJECTIVE
+	Seeking for fulltime job position in the field of Software Development.
+
+EDUCATION
+	University Of Texas, San Antonio, Texas
+	Master of Computer Science, CGPA: 3.8.
+	Courses: Analysis of Algorithms, Networks, Computer Architecture, Operating Systems, Parallel- 	Processing, Software Testing and Quality Assurance, Security Incident Response, Software Engineering, Principles 	of Information Security.
+	Jawaharlal Nehru Technological University, Hyderabad, India
+	Bachelor of Technology, Computer Science and Engineering, CGPA: 3.7.
+
+COMPUTER SKILLS
+	Programming                                  		: C, C++, C#, Java, Android development, SQL.
+	Web Technologies                 	         	: HTML, JavaScript.
+	Architecture and Frameworks         	: .NET.
+	Applications and Tools	         		: Eclipse, Android Studio, Visual Studio.
+
+PROFESSIONAL EXPERIENCE
+        	Software Development Intern, AppsForBB LLC:                                                              January 2014-May 2014
+       Developed an application which helps to manage employees Payroll.
+             Worked on Java Technology.
+
+      	Software Intern, Electronics Corporation of India Limited:                                                  May 2013-Nov 2013
+       Worked on a Web based project that helps for E-tendering of products.
+       Worked entirely on .NET framework.
+       Technologies: HTML, CSS, JavaScript, MySQL, C#.
+
+PROJECTS
+	Calendar Application:                                                                                                                         November 2015
+	Developed an android application Calendar.	
+	Which Shows 3 different views of Calendar, Daily, Weekly and Monthly views.					Events can be created and can be shared with others.
+	
+	Client Server Application:                                                                                                                  November 2015
+	Developed a Small Bookstore, a Client Server application Using Java RMI.
+	It is useful to connect different Client Systems with one Server System.
+	Programming was done in Java.
+
+	Analysis of Shell-sort                                                                                                                                   April 2015
+	This Project is on theoretical and empirical analysis of Shell-sort.
+	I found my own gap sequence and improved performance.
+	Programming was done in Java.
+
+	Website Publishing System                                                                                                                     January 2013
+	Developed a website which helps to market the products of an organization.
+	This project is to enhance security and reduces workload.
+	Worked on .Net framework. 
+
+PUBLICATIONS
+Published a paper “Concomitant supported dissemination for expert search on web” in International journal of advances in computer science and technology.                                                                                               May 2014
